@@ -1,1 +1,9 @@
-﻿Pillow>=10.0
+﻿# 渲染核心：唯一必需依赖
+Pillow>=10.0
+
+# 图形界面（Fluent / WinUI 3 风格）。只有开窗口时才需要；
+# --headless / --sync-vanilla 等命令行路径完全不导入它们。
+# 实测版本：customtkinter 6.0.0 / pywinstyles 1.8（Python 3.11+）
+customtkinter>=5.2
+pywinstyles>=1.6
+pyinstaller>=6.22.3

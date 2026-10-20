@@ -5,6 +5,10 @@ wiki_cache/
 *.spec
 *.spec.bak
 
+# WorkBuddy相关文件
+.workbuddy/
+docs/
+
 # 构建产物
 build/
 dist/
@@ -14,7 +18,7 @@ __pycache__/
 *.exe
 
 # 发布目录（exe 走 GitHub Releases，不进仓库）
-合成表生成器v1.0.0/
+合成表生成器v*/
 发布/
 
 # 临时文件
