@@ -139,4 +139,4 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
-本项目基于[YesNewBeeBar](https://github.com/YesNewBeeBar)的项目Bedrock Recipe Renderer(https://github.com/YesNewBeeBar/bedrock-recipe-renderer)修改而成，原项目使用MIT许可证
+本项目基于[YesNewBeeBar](https://github.com/YesNewBeeBar)的项目[Bedrock Recipe Renderer](https://github.com/YesNewBeeBar/bedrock-recipe-renderer)修改而成，原项目使用MIT许可证
